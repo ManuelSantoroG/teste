@@ -1,5 +1,5 @@
-altair
-numpy
+dash
+dash-bootstrap-components
 pandas
-pydeck
-streamlit
+plotly
+gunicorn
